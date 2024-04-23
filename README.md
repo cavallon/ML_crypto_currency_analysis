@@ -14,18 +14,10 @@ Therefore, the first four years of bitcoin trading are not only irrelevant to tr
 # Issues 
 Currently, the models evaluation rating is high (~0.95) but the forecast is off by a large amount. 
 
+This is largely due to working with a smaller dataset, as well as our limited timeframe for learning a new model.
 
+# Source
 
-
-
-# Analysis
-
-
-
-
-
-
-# Where to go from here
-
+Data obtained from Investing.com
 
 
